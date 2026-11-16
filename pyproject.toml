@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = "GPL-3.0-or-later"
 license-files = ["LICENSE"]
-authors = [{ name = "M. Assaf", email = "mormoassaf@gmail.com" }]
+authors = [{ name = "M. Assaf", email = "assaf@neuratomic.ai" }]
 keywords = ["joint models", "survival analysis", "longitudinal data", "Bayesian", "MCMC",
             "JMbayes2", "PyTorch", "GPU", "biostatistics"]
 classifiers = [

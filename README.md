@@ -36,6 +36,12 @@ Miranda Afonso: the same model, the same priors and the same MCMC algorithm.
 
 ## Install
 
+```
+pip install jmbayes
+```
+
+This also installs PyTorch if you don't have it. For GPU support, or to use conda, see below.
+
 jmbayes runs on any CPU, and on GPUs that PyTorch drives through CUDA: NVIDIA (tested)
 or AMD with ROCm (untested). Apple and Intel GPUs are not supported yet. Install PyTorch first, in
 the version that fits your machine, then this package.
